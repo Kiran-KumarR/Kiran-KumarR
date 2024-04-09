@@ -1,5 +1,5 @@
 <h1 align="center">Hey there!, I'm Kiran Kumar R</h1>
-<h3 align="center">ASE @Kaplan</h3>
+<h3 align="center">Associate Software Engineer @Kaplan</h3>
 
 - 🌱 I’m currently working at **Kaplan North America**
 
