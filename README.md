@@ -4,7 +4,7 @@
 - 🌱 I’m currently working at **Kaplan North America**
 
 
-- 📫 How to reach me **kkr1392001@gmail.com**
+- 📫 How to reach me **kkr1392001@gmail.com** / **<a href='https://www.linkedin.com/in/kiran-kumar-r-3a8874213/' >LinkedIn</a>**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
