@@ -7,7 +7,6 @@
 ## 🌟 About Me  
 - 🔭 I’m currently working with  [**Kaplan**]([https://kaplan.com/]) — an Ed-Tech Company
 - 🏫 Exploring the depths of **Full Stack Development** .  
-- 💻 Check out my projects and journey on [**My Portfolio**]([]).  
 - 🤝🏻 Excited to collaborate on **Projects** and bring ideas to life.  
 - 🌱 Continuously learning to level up my skills.  
 
