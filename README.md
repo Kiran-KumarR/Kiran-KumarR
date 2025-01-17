@@ -22,12 +22,12 @@ past_experiences:
   - role: "Software Engineer 1",
   - company: "KAPLAN",
   - role : "ADAS Intern",
-  - company : "MAGNA "
+  - company : "MAGNA"
 currently_learning:
   - "Backend Development"
   - "DevOps"
 interested_in:
-  - "WEB3", "Podcasts", "Cricket"
+  - "WEB","DevOps+Infra" "Podcasts", "Cricket"
 
 ```
 
