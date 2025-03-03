@@ -24,10 +24,9 @@ past_experiences:
   - role : "ADAS Intern",
   - company : "MAGNA"
 currently_learning:
-  - "Backend Development"
   - "DevOps"
 interested_in:
-  - "WEB","DevOps+Infra" "Podcasts", "Cricket"
+  - "WEB3","DevOps+Infra" "Podcasts", "Cricket"
 
 ```
 
