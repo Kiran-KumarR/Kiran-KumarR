@@ -26,7 +26,7 @@ past_experiences:
 currently_learning:
   - "DevOps"
 interested_in:
-  - "WEB3","DevOps+Infra" "Podcasts", "Cricket"
+  - "WEB3" "DevOps+Infra"
 
 ```
 
