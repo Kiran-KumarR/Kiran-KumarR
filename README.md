@@ -19,14 +19,14 @@ education:
   degree: "Bachelor's of Engineering"
   university: "JSS Academy of Technical Education"
 past_experiences:
-  - role: "Software Engineer 1",
-  - company: "KAPLAN",
-  - role : "ADAS Intern",
+  - role: "Software Engineer 1"
+  - company: "KAPLAN"
+  - role : "ADAS Intern"
   - company : "MAGNA"
 currently_learning:
   - "DevOps"
 interested_in:
-  - "WEB3" "DevOps+Infra"
+  - "WEB3", "DevOps+Infra"
 
 ```
 
