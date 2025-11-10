@@ -11,6 +11,8 @@
 - 🌱 Continuously learning to level up my skills.  
 
 
+![](https://komarev.com/ghpvc/?username=Kiran-KumarR&color=blue)
+
 ---
 ``` yaml
 name: "Kiran Kumar R"
